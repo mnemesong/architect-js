@@ -1,0 +1,19 @@
+{
+    "name": "architect-js",
+    "license": "MIT",
+    "tags": [
+        "architect-js",
+        "architect"
+    ],
+    "description": "Js implementation of architect contacts",
+    "contributors": [
+        "Anatoly-Starodubstev"
+    ],
+    "releasenote": "See https://github.com/mnemesong/architect-js/blob/main/README.md",
+    "version": "0.0.1",
+    "url": "https://github.com/mnemesong/architect-js",
+    "classPath": "hx/src",
+    "dependencies": {
+        "architect-core": ""
+    }
+}

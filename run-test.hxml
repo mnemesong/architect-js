@@ -1,0 +1,7 @@
+--library architect-core
+--library hxnodejs
+--class-path hx/src
+--class-path hx/test
+--main architectJsTest.ArchitectJsTest
+--js bin/main.js
+--cmd node ./bin/main
